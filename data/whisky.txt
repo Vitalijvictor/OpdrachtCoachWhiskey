@@ -1,0 +1,24 @@
+﻿<h3>Scotch Whisky</h3>
+            <div>
+              <p>
+                De Schotse Whisky is een eeuwenoud en volkomen uniek product. De karakteristieke kwaliteit en kenmerkende smaak zijn afhankelijk van typisch Schotse factoren zoals het uitzonderlijke klimaat, het allerzuiverste water en de eigenheid van de turf. De naam komt van het Keltische ‘Uisge Beatha’ wat levenswater betekent. Via de verbasteringen ‘Uisge’ (spreek uit: wieske) en ‘Usky’ is de naam Whisky ontstaan. Het werd in vele duizenden kleine familie of dorps distilleerderijtjes vervaardigd en in de eigen omgeving gedronken. De Schotten zijn terecht trots op hun prachtige, karaktervolle nationale drank die ook buiten Schotland geconsumeerd altijd iets hoogwaardigs en aristocratisch over zich bleef houden.
+              </p>
+            </div>
+          <h3>Irish Whiskey</h3>
+            <div>
+              <p>
+                Wijkt af door onder meer het gebruik van andere graansoorten. Naast gerst ook haver en tarwe. Er wordt bovendien 3x gedistilleerd (de Schotse 2x). Het eesten (zie hierna) gebeurt niet boven een turfvuur.
+                </p>
+            </div>
+            <h3>American Whiskey</h3>
+            <div>
+              <p>
+                Wordt geproduceerd in het middenoosten van de V.S. in de staten Kentucky en Tennessee. Bourbon Whiskey moet minimaal 51% maïs bevatten en Rye Whiskey 51% rogge.
+              </p>
+            </div>
+            <h3>Canadian Whisky</h3>
+          <div>
+            <p>
+              Wordt gemaakt op basis van: rogge, mas en gemoute gerst. In de blend wordt neutrale graan alcohol met Rye-Whisky vermengd.
+            </p>
+          </div>
